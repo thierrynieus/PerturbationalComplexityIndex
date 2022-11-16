@@ -1,6 +1,6 @@
 # PerturbationalComplexityIndex
 The noteboook allows to compute the PCI Lempel-Ziv [1] and PCI state transitions [2]. In order to run the examples you should provide a wake and sleep data set in the Python-MNE format.
-These files are avaible from the author upon request to thierry.ralph.nieus@gmail.com
+Such data are provided, as example, from https://drive.google.com/drive/folders/1itgQ8uR9bBvjJhla3f716-23qZ12a7jX?usp=share_link
 
 [1] Casali, A. G., Gosseries, O., Rosanova, M., Boly, M., Sarasso, S., Casali, K. R., et al. (2013). A Theoretically Based Index of Consciousness Independent of Sensory Processing and Behavior. Science Translational Medicine 5, 198ra105-198ra105. doi:10.1126/scitranslmed.3006294.
 
